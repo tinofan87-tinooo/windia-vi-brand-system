@@ -1,0 +1,11 @@
+{
+  "name": "windia-vi",
+  "owner": { "name": "WINDIA" },
+  "plugins": [
+    {
+      "name": "windia-vi-brand-system",
+      "source": "./",
+      "description": "WINDIA VI Brand System - sample gallery (showcase only). Developed by a team led by an RICS member."
+    }
+  ]
+}
